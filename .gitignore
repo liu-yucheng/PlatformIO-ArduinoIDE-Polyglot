@@ -5,8 +5,8 @@
 # Ignore files and folders whose names start with a dot.
 **/.*
 
-# DO NOT ignore .gitignore .
-!**/.gitignore
+# DO NOT ignore .git* .
+!**/.git*
 
 # DO NOT ignore .development and .vscode .
 !**/.development
